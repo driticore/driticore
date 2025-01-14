@@ -1,4 +1,4 @@
-# Hi there, I'm driticore! 👋
+# Hi there, I'm Akadinso Osuagwu! 👋
 
 ## About Me
 - 💻 Full Stack Developer with a passion for creating innovative solutions.
@@ -14,19 +14,17 @@
 - **Tools:** Git, MinIO, Eloquent ORM
 
 ## Projects
-### [Project 1 Name](https://github.com/driticore/project1)
-A brief description of the project, what it does, and the technologies used.
+### [AfroDiva CMS](https://github.com/driticore/afrodivacms)
+This is a CMS(Content Management System) I made for my moms clothing business - Mostly for managing the clothing she has in her inventory.
 
-### [Project 2 Name](https://github.com/driticore/project2)
-A brief description of the project, what it does, and the technologies used.
-
-### [Project 3 Name](https://github.com/driticore/project3)
+### [Todo Mindset](https://github.com/driticore/todo-list)
+Todo Mindset is a todo web application. I believe developing on concepts like this helps make tasks enjoyable.
+### [Gourney ZA Website](https://github.com/driticore/gourneyza)
 A brief description of the project, what it does, and the technologies used.
 
 ## Contact Me
 - 📧 Email: [akadinso.osuagwu@gmail.com](mailto:akadinso.osuagwu@gmail.com)
-- 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
-- 🐦 Twitter: [@yourtwitterhandle](https://twitter.com/yourtwitterhandle)
+- 💼 LinkedIn: [Akadinso Osuagwu](https://www.linkedin.com/in/akadinso-osuagwu-b415b0329/)
 
 ## GitHub Stats
 ![driticore's GitHub stats](https://github-readme-stats.vercel.app/api?username=driticore&show_icons=true&theme=radical)
