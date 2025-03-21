@@ -1,17 +1,18 @@
 # Hi there, I'm Akadinso Osuagwu! 👋
 
 ## About Me
-- 💻 Full Stack Developer with a passion for creating innovative solutions.
-- 🌱 Currently learning advanced JavaScript frameworks and Python programming.
-- 🎓 Graduated with a degree in Computer Science / Introduction to Web Development & Mobile Application from Varsity College.
-- 🛠️ Experienced in JavaScript, PHP, and Kotlin.
+- 💻 Full Stack Developer with a passion for creating innovative projects.
+- 🌱 Currently learning JavaScript frameworks and Python programming.
+- 🎓 Graduated with a degree in Computer Science / Introduction to Web Development & Mobile Application.
+- 🛠️ Experienced in JavaScript, PHP, Java, C#, and Kotlin.
 - 🎨 Love working on creative projects that combine technology and design.
+- 🏓 Hobbies inculde - Game Development, Playing Guitar, Boxing, Music
 
 ## Skills
-- **Languages:** Python, JavaScript, HTML, CSS, Kotlin, React, Flutter
+- **Languages:** Python, JavaScript, HTML & CSS, Kotlin, React, Flutter, C#, Java
 - **Frameworks:** React, Node.js, Laravel, NextJS, PHP
 - **Databases:** MySQL, PostgreSQL, MongoDB
-- **Tools:** Git, MinIO, Eloquent ORM
+- **Tools:** Git, MinIO, Eloquent ORM, 
 
 ## Projects
 ### [AfroDiva CMS](https://github.com/driticore/afrodivacms)
