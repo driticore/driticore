@@ -33,4 +33,4 @@ A brief description of the project, what it does, and the technologies used.
 ## Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=driticore&layout=compact&theme=radical)
 
-Thanks for visiting my profile! Feel free to reach out if you want to collaborate on a project or just say hi. 😊
+Thanks for visiting my profile! Feel free to reach out if you want to collaborate on a project.
