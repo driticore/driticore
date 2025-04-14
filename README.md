@@ -25,7 +25,7 @@ A brief description of the project, what it does, and the technologies used.
 
 ## Contact Me
 - 📧 Email: [akadinso.osuagwu@gmail.com](mailto:akadinso.osuagwu@gmail.com)
-- 💼 LinkedIn: [Akadinso Osuagwu]([www.linkedin.com/in/akadinso-osuagwu-715929258/](https://www.linkedin.com/in/akadinso-osuagwu-715929258/))
+- 💼 LinkedIn: [Akadinso Osuagwu](https://www.linkedin.com/in/akadinso-osuagwu-715929258/)
 
 ## GitHub Stats
 ![driticore's GitHub stats](https://github-readme-stats.vercel.app/api?username=driticore&show_icons=true&theme=radical)
