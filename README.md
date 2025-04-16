@@ -10,10 +10,9 @@
 
 ## Skills
 - **Languages:** Python, JavaScript, HTML & CSS, Kotlin, React, Flutter, C#, Java
-- **Frameworks:** React, Node.js, Laravel, NextJS, PHP
+- **Frameworks:** React, Node.js, Laravel, NextJS, Django
 - **Databases:** MySQL, PostgreSQL, MongoDB
-- **Tools:** Git, MinIO, Eloquent ORM, 
-
+- **Tools:** Git, Codeium
 ## Projects
 ### [AfroDiva CMS](https://github.com/driticore/afrodivacms)
 This is a CMS(Content Management System) I made for my moms clothing business - Mostly for managing the clothing she has in her inventory.
