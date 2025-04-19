@@ -3,7 +3,7 @@
 ## About Me
 - 💻 Full Stack Developer with a passion for creating innovative projects.
 - 🌱 Currently learning JavaScript frameworks and Python programming.
-- 🎓 Graduated with a degree in Computer Science / Introduction to Web Development & Mobile Application.
+- 🎓 Currently studying Computer Science.
 - 🛠️ Experienced in JavaScript, PHP, Java, C#, and Kotlin.
 - 🎨 Love working on creative projects that combine technology and design.
 - 🏓 Hobbies inculde - Game Development, Playing Guitar, Boxing, Music
@@ -20,7 +20,7 @@ This is a CMS(Content Management System) I made for my moms clothing business - 
 ### [Todo Mindset](https://github.com/driticore/todo-list)
 Todo Mindset is a todo web application. I believe developing on concepts like this helps make tasks enjoyable.
 ### [Gourney ZA Website](https://github.com/driticore/gourneyza)
-A brief description of the project, what it does, and the technologies used.
+This is a website made with HTML, CSS, JS. I made this for my freelancing website services - very user-friendly and minimalistic.
 
 ## Contact Me
 - 📧 Email: [akadinso.osuagwu@gmail.com](mailto:akadinso.osuagwu@gmail.com)
