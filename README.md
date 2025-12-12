@@ -37,7 +37,7 @@ I’m passionate about building modern digital experiences—from websites and m
 - 🌱 Currently deepening my knowledge in **JavaScript ecosystems** and **Python**.  
 - 🎓 Studying **Computer Science**.  
 - 🛠 Experienced across multiple languages and frameworks.  
-- 🎮 Interests: Game development, music, guitar, boxing, and creative design.
+- 🎮 Interests: Game development, music, guitar, travelling and creative design.
 
 ---
 
