@@ -15,13 +15,13 @@
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)
+![PHP](https://img.shields.io/badge/-php-0095D5?style=flat&logo=php&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 
 ### ⚙️ Frameworks & Libraries
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 
 ### 🛢️ Databases
@@ -31,8 +31,6 @@
 
 ### 🧰 Tools
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![Codeium](https://img.shields.io/badge/-Codeium-000000?style=flat&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjZmZmIiBoZWlnaHQ9IjI0IiB2aWV3Qm94PSIwIDAgMjQgMjQiIHdpZHRoPSIyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnL3N2ZyI+PHBhdGggZD0iTTEzLjQxNCAyLjc4QzEyLjczOSAyLjI2OSAxMS43ODIgMiAyMCAyYzUuNTUyIDAgMy43NTkgNi4zMzcgMy43NTkgNi4zMzdTNjUuNTUyIDIwIDIgMjBjLTUuNTUyIDAtMy43NTktNi4zMzcgLTMuNzU5LTYuMzM3UzEuMzg2IDIuNzg5IDEzLjQxNCAyLjc4eiIvPjwvc3ZnPg==)
-
 
 ## Projects
 ### [AfroDiva CMS](https://github.com/driticore/afrodivacms)
