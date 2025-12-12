@@ -32,15 +32,6 @@
 ### 🧰 Tools
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
-## Projects
-### [AfroDiva CMS](https://github.com/driticore/afrodivacms)
-This is a CMS(Content Management System) I made for my moms clothing business - Mostly for managing the clothing she has in her inventory.
-
-### [Todo Mindset](https://github.com/driticore/todo-list)
-Todo Mindset is a todo web application. I believe developing on concepts like this helps make tasks enjoyable.
-### [Gourney ZA Website](https://github.com/driticore/gourneyza)
-This is a website made with HTML, CSS, JS. I made this for my freelancing website services - very user-friendly and minimalistic.
-
 ## Contact Me
 - 📧 Email: [akadinso.osuagwu@gmail.com](mailto:akadinso.osuagwu@gmail.com)
 - 💼 LinkedIn: [Akadinso Osuagwu](https://www.linkedin.com/in/akadinso-osuagwu-715929258/)
